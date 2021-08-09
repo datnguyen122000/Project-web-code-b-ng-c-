@@ -1,0 +1,251 @@
+﻿*{
+    padding:0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    }
+
+.container {
+    width: 768px;
+    height: 500px;
+    background-image: url(../images/bg.jpg);
+    margin-left:auto;
+    margin-right: auto;
+    padding-top:10px;
+}
+.header{
+    width: 700px;
+    height:19px;
+    background-image: url(../images/top_box.gif);
+    margin-left:auto;
+    margin-right: auto;
+}
+.container .menu{
+    width: 700px;
+    height: auto;
+    margin-left:auto;
+    margin-right: auto;
+    background-color: white;
+    position:relative;
+}
+.menu img {
+    text-align: center;
+    margin-left: 18px;
+}
+.menu .all_menu{
+    width: 700px;
+    position:absolute;
+    margin-top:-40px;
+    text-align: center;
+    top: 54px;
+    left: 30px;
+}
+.all_menu a {
+    color:#696058e3;
+    text-decoration: none;
+    padding-right: 8%;
+    font-weight: bold;
+}
+.main {
+    width: 700px;
+    height: 80%;
+    background-color: white;
+    margin-left:auto;
+    margin-right: auto;
+}
+.main h3{
+    padding-top:30px;
+    margin-left: 45px;
+    color:blue;
+    padding-bottom: 20px;
+}
+.main form {
+    padding-left:45px;
+}
+.main form table td{
+    color: teal;
+}
+
+
+/*start quiz page*/
+.main .title{
+    font-size: 18px;
+    color:teal;
+    padding-top: 30px;
+    margin-left: 50px;
+}
+.main .user{
+    color:blue;
+}
+.main form input{
+    margin-left:5px;
+}
+.main form{
+    margin-top:-15px;
+}
+.main form button{
+    margin-left:42%;
+    font-weight: bold;
+    margin-top:5px;
+    font-size: 20px;
+    margin-top:8px;
+}
+/*take quiz page*/
+.main .timer{
+    margin-left:312px;
+}
+.main .timer span{
+    color:red;
+}
+.main .questionx{
+    width: 85%;
+    height: auto;
+    color:teal;
+    font-size: 18px;
+    margin-left:auto;
+    margin-right: auto;
+}
+.main table tr td input {
+}
+
+.main table {
+    /*    width: 85%;
+        height: auto;
+        margin-left:auto;
+        margin-right: auto;*/
+    color:teal;
+    padding-top:15px;
+    padding-left:45px;
+}
+
+
+
+.main table tr td:first-child{
+    width: 12.8px;
+}
+
+.main .containButton{
+    margin-left:0px;
+}
+
+form .back{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    font-size: 20px;
+    padding:2px;
+    border:1px solid black;
+    margin-left: 32%;
+    position: relative;
+    left:42%;
+}
+
+/*result result page*/
+.main .title a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    font-size: 20px;
+    padding:2px;
+    border:1px solid black;
+    background-color: gainsboro;   
+}
+.title .score{
+    color:blue;
+}
+
+/*make quiz page*/
+.main .make_quiz{
+    color:teal;
+    padding-top:50px;
+    font-size: 16px;
+    margin-left:5%;
+}
+
+.main_makeQuiz{
+    padding-bottom: 12px;
+}
+
+.make_quiz tr td {
+    width: 90%;
+    height:40px;
+}
+
+.make_quiz tr td textarea {
+    width:90%;
+    height:100%;
+}
+.main .question{
+    width: 90%;
+    height: 50px;
+}
+.main tr td input{
+    margin-left: 10px;
+}
+.main .save{
+    margin-left: 0px;
+}
+/*Managemen Quiz Page*/ 
+.main .manage_quiz{
+    color:teal;
+    padding-top:50px;
+    font-size: 16px;
+    margin-left:5%;
+    width: 85%;
+}
+.manage_quiz .manage_row .mange_d{
+    padding-left:20px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+}
+.manage_quiz .text{
+    /*width: 430px;*/
+    width: 482px;
+    padding-bottom: 10px;
+    padding-top:12px;
+    text-decoration: none;
+    color: black;
+}
+.manageContainer{
+    background-image: url(../images/bgResize.jpg);
+    height: auto;
+    padding-top:20px;
+    padding-bottom: 20px;
+
+}
+/*register page*/
+.main table .selectItem{
+    margin-left: 10px;
+    width: 120px;
+}
+
+@media only screen and (max-width: 600px) {
+    .main h3{
+        color: #ff000c73;
+    }
+    .all_menu a {
+        text-transform: uppercase;
+    }
+    .main table tr td input {
+        padding-bottom: 3px;
+    }
+    .main .user {
+        color: #ff000c73;
+    }
+    /*sd*/
+    .all_menu a {
+        padding-right: 5%;
+    }
+    
+    .main form {
+        margin-top: -12px;
+    }
+
+        
+   
+}
+
+
+
+
+
+

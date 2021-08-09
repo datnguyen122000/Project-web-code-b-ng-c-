@@ -1,0 +1,17 @@
+﻿.main table tr td:first-child {
+    width: 90px;
+}
+
+.main table tr td input {
+    width: 190.8px;
+}
+
+.main form button {
+    margin-left: 5%;
+}
+.main .sign_in {
+    width:132px;
+}
+.start-quiz {
+    padding-left: 50px;
+}

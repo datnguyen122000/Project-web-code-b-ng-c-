@@ -1,0 +1,56 @@
+C:\Users\DELL\Desktop\Project\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.dll.config
+C:\Users\DELL\Desktop\Project\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.dll
+C:\Users\DELL\Desktop\Project\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.pdb
+C:\Users\DELL\Desktop\Project\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Project\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Project\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.dll
+C:\Users\DELL\Desktop\Project\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.pdb
+C:\Users\Admin\Downloads\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.dll.config
+C:\Users\Admin\Downloads\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.dll
+C:\Users\Admin\Downloads\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.pdb
+C:\Users\Admin\Downloads\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.dll
+C:\Users\Admin\Downloads\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.pdb
+C:\Users\Admin\Downloads\OnlineQuiz\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.dll.config
+C:\Users\Admin\Downloads\OnlineQuiz\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.dll
+C:\Users\Admin\Downloads\OnlineQuiz\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.pdb
+C:\Users\Admin\Downloads\OnlineQuiz\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\OnlineQuiz\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\OnlineQuiz\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.dll
+C:\Users\Admin\Downloads\OnlineQuiz\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.pdb
+D:\C#\OnlineQuiz\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.dll.config
+D:\C#\OnlineQuiz\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.dll
+D:\C#\OnlineQuiz\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.pdb
+D:\C#\OnlineQuiz\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.csprojAssemblyReference.cache
+D:\C#\OnlineQuiz\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.csproj.CoreCompileInputs.cache
+D:\C#\OnlineQuiz\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.dll
+D:\C#\OnlineQuiz\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.pdb
+C:\Users\DELL\Desktop\Project C#\thuy\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.dll.config
+C:\Users\DELL\Desktop\Project C#\thuy\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.dll
+C:\Users\DELL\Desktop\Project C#\thuy\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.pdb
+C:\Users\DELL\Desktop\Project C#\thuy\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Project C#\thuy\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Project C#\thuy\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.dll
+C:\Users\DELL\Desktop\Project C#\thuy\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.pdb
+C:\Users\DELL\Desktop\Project C#\OnlineQuiz\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.dll.config
+C:\Users\DELL\Desktop\Project C#\OnlineQuiz\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.dll
+C:\Users\DELL\Desktop\Project C#\OnlineQuiz\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.pdb
+C:\Users\DELL\Desktop\Project C#\OnlineQuiz\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Project C#\OnlineQuiz\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Project C#\OnlineQuiz\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.dll
+C:\Users\DELL\Desktop\Project C#\OnlineQuiz\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.pdb
+C:\Users\Admin\Desktop\Project C#\OnlineQuiz\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.dll.config
+C:\Users\Admin\Desktop\Project C#\OnlineQuiz\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.dll
+C:\Users\Admin\Desktop\Project C#\OnlineQuiz\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.pdb
+C:\Users\Admin\Desktop\Project C#\OnlineQuiz\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Project C#\OnlineQuiz\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project C#\OnlineQuiz\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.dll
+C:\Users\Admin\Desktop\Project C#\OnlineQuiz\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.pdb
+C:\Users\DELL\Desktop\Project c# H\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.dll.config
+C:\Users\DELL\Desktop\Project c# H\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.dll
+C:\Users\DELL\Desktop\Project c# H\OnlineQuiz\OnlineQuiz\bin\OnlineQuiz.pdb
+C:\Users\DELL\Desktop\Project c# H\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Project c# H\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Project c# H\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.dll
+C:\Users\DELL\Desktop\Project c# H\OnlineQuiz\OnlineQuiz\obj\Debug\OnlineQuiz.pdb
